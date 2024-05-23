@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="12dp"
+    android:background="@color/Han"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/btnNyanza"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="11dp"
+        android:fontFamily="monospace"
+        android:padding="10dp"
+        android:text="#ECFFDC" />
+
+    <Button
+        android:id="@+id/btnTaupe"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="11dp"
+        android:fontFamily="monospace"
+        android:padding="10dp"
+        android:text="#483C32" />
+
+    <Button
+        android:id="@+id/btnBursa"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="11dp"
+        android:fontFamily="monospace"
+        android:padding="10dp"
+        android:text="#FFCD00" />
+
+    <Button
+        android:id="@+id/btnFiona"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="11dp"
+        android:fontFamily="monospace"
+        android:padding="10dp"
+        android:text="#6247AA" />
+
+    <Button
+        android:id="@+id/btnDrape"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="11dp"
+        android:fontFamily="monospace"
+        android:padding="10dp"
+        android:text="#03E5B7" />
+
+    <Button
+        android:id="@+id/btnHavana"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="11dp"
+        android:fontFamily="monospace"
+        android:padding="10dp"
+        android:text="#1B8B00" />
+
+    <Button
+        android:id="@+id/btnPale"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="11dp"
+        android:fontFamily="monospace"
+        android:padding="10dp"
+        android:text="#E6C79C" />
+
+    <Button
+        android:id="@+id/btnJade"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="11dp"
+        android:fontFamily="monospace"
+        android:padding="10dp"
+        android:text="#581845" />
+
+    <Button
+        android:id="@+id/btnGarland"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:fontFamily="monospace"
+        android:padding="10dp"
+        android:text="#ACABB0" />
+</LinearLayout>

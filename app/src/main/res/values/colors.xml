@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Taupe">#483C32</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="nyanza">#ECFFDC</color>
+    <color name="Han">#de9dac</color>
+    <color name="Fiona">#6247AA</color>
+    <color name="Bursa">#FFCD00</color>
+    <color name="Drape">#03E5B7</color>
+    <color name="Havana">#1B8B00</color>
+    <color name="Jade">#581845</color>
+    <color name="Garland">#ACABB0</color>
+    <color name="Pale">#E6C79C</color>
+</resources>
